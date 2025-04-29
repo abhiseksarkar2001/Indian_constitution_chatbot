@@ -1,0 +1,132 @@
+👤 User Query:
+I was accused of a crime, but I wasn't given a fair chance to defend myself in court because I couldn't afford a lawyer. What can I do?
+
+📄 Retrieved Articles:
+1. Article 39A - Equal justice and free legal aid
+The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities.
+
+2. Article 20 - Protection in respect of conviction for offences
+(1) No person shall be convicted of any offence except for violation of a law in force at the time of the commission of the Act charged as an offence, nor be subjected to a penalty greater than that which might have been inflicted under the law in force at the time of the commission of the offence.
+
+ 
+
+(2) No person shall be prosecuted and punished for the same offence more than once.
+
+ 
+
+(3) No person accused of any offence shall be compelled to be a witness against himself.
+
+3. Article 262 - Adjudication of disputes relating to waters of interState rivers or river valleys
+(1) Parliament may by law provide for the adjudication of any dispute or complaint with respect to the use, distribution or control of the waters of, or in, any inter-State river or river valley.
+
+ 
+
+(2) Notwithstanding anything in this Constitution, Parliament may by law provide that neither the Supreme Court nor any other court shall exercise jurisdiction in respect of any such dispute or complaint as is referred to in clause (1).
+
+4. Article 134 - Appellate jurisdiction of Supreme Court in regard to criminal matters
+(1) An appeal shall lie to the Supreme Court from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India if the High Court —
+
+ 
+
+(a) has on appeal reversed an order of acquittal of an accused person and sentenced him to death; or
+
+ 
+
+(b) has withdrawn for trial before itself any case from any court subordinate to its authority and has in such trial convicted the accused person and sentenced him to death; or
+
+ 
+
+(c) certifies under article 134A] that the case is a fit one for appeal to the Supreme Court:
+
+ 
+
+Provided that an appeal under sub-clause (c) shall lie subject to such provisions as may be made in that behalf under clause (1) of article 145 and to such conditions as the High Court may establish or require.
+
+ 
+
+(2) Parliament may by law confer on the Supreme Court any further powers to entertain and hear appeals from any judgment, final order or sentence in a criminal proceeding of a High Court in the territory of India subject to such conditions and limitations as may be specified in such law.
+
+5. Article 145 - Rules of Court, etc
+(1) Subject to the provisions of any law made by Parliament, the Supreme Court may from time to time, with the approval of the President, make rules for regulating generally the practice and procedure of the Court including —
+
+ 
+
+(a) rules as to the persons practising before the Court;
+
+ 
+
+(b) rules as to the procedure for hearing appeals and other matters pertaining to appeals including the time within which appeals to the Court are to be entered;
+
+ 
+
+(c) rules as to the proceedings in the Court for the enforcement of any of the rights conferred by Part III;
+
+ 
+
+(cc) rules as to the proceedings in the Court under article 139A;
+
+ 
+
+(d) rules as to the entertainment of appeals under sub-clause (c) of clause (1) of article 134;
+
+ 
+
+(e) rules as to the conditions subject to which any judgment pronounced or order made by the Court may be reviewed and the procedure for such review including the time within which applications to the Court for such review are to be entered;
+
+ 
+
+(f) rules as to the costs of and incidental to any proceedings in the Court and as to the fees to be charged in respect of proceedings therein;
+
+ 
+
+(g) rules as to the granting of bail;
+
+ 
+
+(h) rules as to stay of proceedings;
+
+ 
+
+(i) rules providing for the summary determination of any appeal which appears to the Court to be frivolous or vexatious or brought for the purpose of delay;
+
+ 
+
+(j) rules as to the procedure for inquiries referred to in clause (1) of article 317.
+
+ 
+
+(2) Subject to the provisions of clause (3), rules made under this article may fix the minimum number of Judges who are to sit for any purpose, and may provide for the powers of single Judges and Division Courts.
+
+ 
+
+(3)The minimum number] of Judges who are to sit for the purpose of deciding any case involving a substantial question of law as to the interpretation of this Constitution or for the purpose of hearing any reference under article 143 shall be five:
+
+ 
+
+              Provided that, where the Court hearing an appeal under any of the provisions of this Chapter other than article 132 consists of less than five Judges and in the course of the hearing of the appeal the Court is satisfied that the appeal involves a substantial question of law as to the interpretation of this Constitution the determination of which is necessary for the disposal of the appeal, such Court shall refer the question for opinion to a Court constituted as required by this clause for the purpose of deciding any case involving such a question and shall on receipt of the opinion dispose of the appeal in conformity with such opinion.
+
+ 
+
+(4) No judgment shall be delivered by the Supreme Court save in open Court, and no report shall be made under article 143 save in accordance with an opinion also delivered in open Court.
+
+ 
+
+(5) No judgment and no such opinion shall be delivered by the Supreme Court save with the concurrence of a majority of the Judges present at the hearing of the case, but nothing in this clause shall be deemed to prevent a Judge who does not concur from delivering a dissenting judgment or opinion.
+
+⚖️ Constitutional Answer:
+<think>
+Okay, so the user is asking about a situation where they were accused of a crime but couldn't afford a lawyer, which made it hard for them to defend themselves in court. They want to know what they can do. 
+
+First, I need to look through the provided articles to find any that relate to legal aid or the right to a fair defense. 
+
+Looking at the articles, Article 39A stands out. It says the State must ensure that everyone has equal opportunity for justice and provide free legal aid to those who can't afford it due to economic or other disabilities. That seems directly relevant here.
+
+The other articles don't seem to apply as much. Article 20 is about protection against conviction for offenses, which is more about the legality of the conviction process rather than legal aid. Article 262 deals with inter-state river disputes, which is unrelated. Article 134 and 145 are about appellate jurisdiction and court procedures, respectively, which don't address the issue of legal aid.
+
+So, the main article to cite is 39A. The user should be informed that under this article, they have the right to free legal aid, and they can seek assistance from legal aid services provided by the State.
+</think>
+
+Under Article 39A of the Constitution of India, you have the right to free legal aid. The State is required to provide free legal aid to ensure that opportunities for securing justice are not denied due to economic or other disabilities. You can seek assistance from legal aid services provided by the State to defend yourself in court. 
+
+**Answer:**  
+You can seek free legal aid under Article 39A, which mandates the State to provide such assistance to ensure justice is accessible to all citizens.

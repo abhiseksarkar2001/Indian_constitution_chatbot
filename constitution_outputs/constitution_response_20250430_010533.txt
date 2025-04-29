@@ -1,0 +1,79 @@
+👤 User Query:
+As a child below the age of 14, I was employed in a hazardous industry. Are there any laws against this?
+
+📄 Retrieved Articles:
+1. Article 24 - Prohibition of employment of children in factories, etc
+No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment
+
+2. Article 15 - Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth
+(1) The State shall not discriminate against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.
+
+ 
+
+(2) No citizen shall, on grounds only of religion, race, caste, sex, place of birth or any of them, be subject to any disability, liability, restriction or condition with regard to—
+
+     (a) access to shops, public restaurants, hotels and places of public entertainment; or
+
+     (b) the use of wells, tanks, bathing ghats, roads and places of public resort maintained wholly or partly out of State funds or dedicated to the use of the general public.
+
+ 
+
+(3) Nothing in this article shall prevent the State from making any special provision for women and children.
+
+ 
+
+(4) Nothing in this article or in clause (2) of article 29 shall prevent the State from making any special provision for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes and the Scheduled Tribes.
+
+ 
+
+(5) Nothing in this article or in sub-clause (g) of clause (1) of article 19 shall prevent the State from making any special provision, by law, for the advancement of any socially and educationally backward classes of citizens or for the Scheduled Castes or the Scheduled Tribes in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30.
+
+ 
+
+(6) Nothing in this article or sub-clause (g) of clause (1) of article 19 or clause (2) of article 29 shall prevent the State from making,—
+
+     (a) any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5); and
+
+     (b) any special provision for the advancement of any economically weaker sections of citizens other than the classes mentioned in clauses (4) and (5) in so far as such special provisions relate to their admission to educational institutions including private educational institutions, whether aided or unaided by the State, other than the minority educational institutions referred to in clause (1) of article 30, which in the case of reservation would be in addition to the existing reservations and subject to a maximum of ten per cent. of the total seats in each category.
+
+     Explanation.—For the purposes of this article and article 16, "economically weaker sections" shall be such as may be notified by the State from time to time on the basis of family income and other indicators of economic disadvantage.
+
+3. Article 276 - Taxes on professions, trades, callings and employments
+(1) Notwithstanding anything in article 246, no law of the Legislature of a State relating to taxes for the benefit of the State or of a municipality, district board, local board or other local authority therein in respect of professions, trades, callings or employments shall be invalid on the ground that it relates to a tax on income.
+
+ 
+
+(2) The total amount payable in respect of any one person to the State or to any one municipality, district board, local board or other local authority in the State by way of taxes on professions, trades, callings and employments shall not exceed 1 [two thousand and five hundred rupees] per annum.
+
+ 
+
+(3) The power of the Legislature of a State to make laws as aforesaid with respect to taxes on professions, trades, callings and employments shall not be construed as limiting in any way the power of Parliament to make laws with respect to taxes on income accruing from or arising out of professions, trades, callings and employments.
+
+4. Article 17 - Abolition of Untouchability
+“Untouchability” is abolished and its practice in any form is forbidden. The enforcement of any disability arising out of “Untouchability” shall be an offence punishable in accordance with law.
+
+5. Article 23 - Prohibition of traffic in human beings and forced labour
+(1) Traffic in human beings and begar and other similar forms of forced labour are prohibited and any contravention of this provision shall be an offence punishable in accordance with law.
+
+ 
+
+(2) Nothing in this article shall prevent the State from imposing compulsory service for public purposes, and in imposing such service the State shall not make any discrimination on grounds only of religion, race, caste or class or any of them
+
+⚖️ Constitutional Answer:
+<think>
+Okay, so I'm trying to figure out if there's a law against employing a child under 14 in a hazardous industry. The user mentioned they were employed in such a situation, so I need to check the provided articles to see if any of them address this issue.
+
+Looking through the articles, I see Article 24 is titled "Prohibition of employment of children in factories, etc." That sounds relevant. Let me read it. It says, "No child below the age of fourteen years shall be employed to work in any factory or mine or engaged in any other hazardous employment." So, this directly prohibits employing children under 14 in factories, mines, or any hazardous work.
+
+I should also check if there are any exceptions or other related articles. Article 23 talks about forced labor but doesn't specifically address child employment. Article 15 deals with discrimination and has provisions for special treatments for women and children, but it doesn't directly prohibit child labor. Article 17 is about untouchability, and Article 276 is about taxes, so those aren't relevant here.
+
+Therefore, the only article that applies is Article 24, which clearly prohibits such employment. So, the answer should cite Article 24 and explain its provisions.
+</think>
+
+The law prohibits the employment of children below the age of 14 in hazardous industries. 
+
+**Answer:**
+Yes, there is a law against this. Article 24 of the Constitution explicitly states that no child below the age of fourteen years shall be employed in any factory, mine, or other hazardous employment. Therefore, your employment in such conditions is prohibited under the law. 
+
+**Citation:**
+Article 24: Prohibition of employment of children in factories, etc.

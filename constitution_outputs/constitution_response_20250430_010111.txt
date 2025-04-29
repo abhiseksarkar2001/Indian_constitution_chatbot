@@ -1,0 +1,120 @@
+👤 User Query:
+The police have detained me for the last 48 hours without producing me before a magistrate. Is this allowed?
+
+📄 Retrieved Articles:
+1. Article 22 - Protection against arrest and detention in certain cases
+(1) No person who is arrested shall be detained in custody without being informed, as soon as may be, of the grounds for such arrest nor shall he be denied the right to consult, and to be defended by, a legal practitioner of his choice.
+
+ 
+
+(2) Every person who is arrested and detained in custody shall be produced before the nearest magistrate within a period of twenty-four hours of such arrest excluding the time necessary for the journey from the place of arrest to the court of the magistrate and no such person shall be detained in custody beyond the said period without the authority of a magistrate.
+
+ 
+
+(3) Nothing in clauses (1) and (2) shall apply—
+
+ 
+
+(a) to any person who for the time being is an enemy alien; or
+
+(b) to any person who is arrested or detained under any law providing for preventive detention.
+
+ 
+
+(4) No law providing for preventive detention shall authorise the detention of a person for a longer period than three months unless—
+
+ 
+
+(a) an Advisory Board consisting of persons who are, or have been, or are qualified to be appointed as, Judges of a High Court has reported before the expiration of the said period of three months that there is in its opinion sufficient cause for such detention:
+
+Provided that nothing in this sub-clause shall authorise the detention of any person beyond the maximum period prescribed by any law made by Parliament under sub-clause (b) of clause (7); or
+
+(b) such person is detained in accordance with the provisions of any law made by Parliament under subclauses (a) and (b) of clause (7).
+
+ 
+
+(5) When any person is detained in pursuance of an order made under any law providing for preventive detention, the authority making the order shall, as soon as may be, communicate to such person the grounds on which the order has been made and shall afford him the earliest opportunity of making a representation against the order.
+
+ 
+
+(6) Nothing in clause (5) shall require the authority making any such order as is referred to in that clause to disclose facts which such authority considers to be against the public interest to disclose.
+
+ 
+
+(7) Parliament may by law prescribe—
+
+
+(a) the circumstances under which, and the class or classes of cases in which, a person may be detained for a period longer than three months under any law providing for preventive detention without obtaining the opinion of an Advisory Board in accordance with the provisions of sub-clause (a) of clause (4);
+
+(b) the maximum period for which any person may in any class or classes of cases be detained under any law providing for preventive detention; and
+
+(c) the procedure to be followed by an Advisory Board in an inquiry under sub-clause (a) of clause (4).
+
+2. Article 233A - Validation of appointments of, and judgments, etc, delivered by, certain district judges
+Notwithstanding any judgment, decree or order of any court, —
+
+ 
+
+(a) (i) no appointment of any person already in the judicial service of a State or of any person who has been for not less than seven years an advocate or a pleader, to be a district judge in that State, and
+
+ 
+
+(ii) no posting, promotion or transfer of any such person as a district judge,
+
+ 
+
+made at any time before the commencement of the Constitution (Twentieth Amendment) Act, 1966, otherwise than in accordance with the provisions of article 233 or article 235 shall be deemed to be illegal or void or ever to have become illegal or void by reason only of the fact that such appointment, posting, promotion or transfer was not made in accordance with the said provisions;
+
+ 
+
+(b) no jurisdiction exercised, no judgment, decree, sentence or order passed or made, and no other act or proceeding done or taken, before the commencement of the Constitution (Twentieth Amendment) Act, 1966 by, or before, any person appointed, posted, promoted or transferred as a district judge in any State otherwise than in accordance with the provisions of article 233 or article 235 shall be deemed to be illegal or invalid or ever to have become illegal or invalid by reason only of the fact that such appointment, posting, promotion or transfer was not made in accordance with the said provisions.
+
+3. Article 220 - Restriction on practice after being a permanent Judge
+No person who, after the commencement of this Constitution, has held office as a permanent Judge of a High Court shall plead or act in any court or before any authority in India except the Supreme Court and the other High Courts.
+
+Explanation — In this article, the expression “High Court” does not include a High Court for a State specified in Part B of the First Schedule as it existed before the commencement of the Constitution (Seventh Amendment) Act, 1956.
+
+4. Article 361 - Protection of President and Governors and Rajpramukhs
+(1) The President, or the Governor or Rajpramukh of a State, shall not be answerable to any court for the exercise and performance of the powers and duties of his office or for any act done or purporting to be done by him in the exercise and performance of those powers and duties:
+
+ 
+
+   Provided that the conduct of the President may be brought under review by any court, tribunal or body appointed or designated by either House of Parliament for the investigation of a charge under article 61:
+
+ 
+
+   Provided further that nothing in this clause shall be construed as restricting the right of any person to bring appropriate proceedings against the Government of India or the Government of a State.
+
+ 
+
+(2) No criminal proceedings whatsoever shall be instituted or continued against the President, or the Governor of a State, in any court during his term of office.
+
+ 
+
+(3) No process for the arrest or imprisonment of the President, or the Governor of a State, shall issue from any court during his term of office.
+
+ 
+
+(4) No civil proceedings in which relief is claimed against the President, or the Governor of a State, shall be instituted during his term of office in any court in respect of any act done or purporting to be done by him in his personal capacity, whether before or after he entered upon his office as President, or as Governor of such State, until the expiration of two months next after notice in writing has been delivered to the President or the Governor, as the case may be, or left at his office stating the nature of the proceedings, the cause of action therefor, the name, description and place of residence of the party by whom such proceedings are to be instituted and the relief which he claims.
+
+5. Article 373 - Power of President to make order in respect of persons under preventive detention in certain cases
+Until provision is made by Parliament under clause (7) of article 22, or until the expiration of one year from the commencement of this Constitution, whichever is earlier, the said article shall have effect as if for any reference to Parliament in clauses (4) and (7) thereof there were substituted a reference to the President and for any reference to any law made by Parliament in those clauses there were substituted a reference to an order made by the President.
+
+⚖️ Constitutional Answer:
+<think>
+Okay, so the user is asking if being detained by the police for 48 hours without being produced before a magistrate is allowed. I need to check the provided articles to see what the Constitution says about this.
+
+Looking at Article 22, which deals with protection against arrest and detention. Clause (2) specifically mentions that every person arrested must be produced before a magistrate within 24 hours, excluding travel time. So, 48 hours is way beyond that limit.
+
+But wait, there's an exception in clause (3). It says that these protections don't apply to enemy aliens or those under preventive detention. The user didn't mention anything about preventive detention, so I assume that's not the case here.
+
+So, according to Article 22(2), the police should have produced the user before a magistrate within 24 hours. Since it's been 48 hours, this seems to be a violation of their rights under the Constitution.
+
+I should make sure there's no other article that might override this. The other articles provided don't seem relevant here. Article 233A is about district judges, Article 220 about judges practicing after retirement, and Article 361 about immunity for the President and Governors. Article 373 talks about preventive detention but only until Parliament makes provisions, which they have, so it doesn't affect this case.
+
+Therefore, the detention beyond 24 hours without magistrate production is not allowed under Article 22(2).
+</think>
+
+Under Article 22(2) of the Constitution of India, every person who is arrested and detained in custody must be produced before the nearest magistrate within 24 hours of such arrest. Since you have been detained for 48 hours without being produced before a magistrate, this is a violation of your constitutional rights. You may seek legal recourse to challenge this detention. 
+
+Citation: Article 22(2) - Protection against arrest and detention in certain cases.
