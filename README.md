@@ -159,11 +159,3 @@ Issues and contributions are welcome via [GitHub Issues](https://github.com/abhi
 ---
 
 
----
-
-### ✅ Suggestions (for future enhancement):
-
-- Add unit tests for core retrieval modules.
-- Add user feedback and logging system to refine answers.
-- Include more laws (like labor law, RTI Act, etc.) into the RAG setup.
-- Deploy as a web app (via Hugging Face Spaces or Docker).
